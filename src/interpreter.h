@@ -41,7 +41,7 @@ typedef int bool;
 #define DOWN 3
 typedef struct IntStack intStack;
 
-	//something smells fishy... errors
+//something smells fishy... errors
 #define ERR_DIV_ZERO 0
 #define ERR_INVALID_INST 1
 #define ERR_STACK_UNDERFLOW 2
